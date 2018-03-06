@@ -1,1 +1,3 @@
-# iOSJailbreaks.github.io
+# iOSJailbreaks' Cydia Repo
+
+-- ADD iOSJailbreaks.github.io in Cydia
